@@ -6,11 +6,7 @@ This project implements a Convolutional Neural Network (CNN) for classifying ima
 
 ```
 .
-├── models/
-│   ├── dog_cat_cnn_best.pth             # Original model weights
-│   ├── optimized_dog_cat_cnn_best.pth   # Optimized model weights
-│   ├── optimized_params.json            # Optimized parameters
-│   └── training_metrics.png             # Training metrics plot
+
 ├── data_loader.py                       # Data loading and preprocessing
 ├── cnn_model.py                         # Original CNN model architecture
 ├── cnn_model_optimized.py               # Optimized CNN model architecture                          # Training functions
