@@ -1,0 +1,25 @@
+{
+    "num_layers": 4,
+    "conv_filters": [
+        32,
+        64,
+        128,
+        256
+    ],
+    "kernel_sizes": [
+        3,
+        3,
+        3,
+        3
+    ],
+    "fc_neurons": [
+        100,
+        34,
+        38
+    ],
+    "dropout_rate": 0.23707905753173247,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0004323362869331777,
+    "label_smoothing": 0.1,
+    "batch_size": 16
+}
